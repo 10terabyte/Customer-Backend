@@ -22,7 +22,7 @@
 
 ### Clone
 
-- Clone this project to your local machine `https://github.com/victorsteven/Forum-App-Go-Backend.git`
+- Clone this project to your local machine
 
 
 ### Setup
